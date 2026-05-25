@@ -1,45 +1,57 @@
-# 🌑 donn — AI Systems Architect
+![banner](assets/banner.png)
 
-> *"Building autonomous AI agent systems on a home lab with zero cloud budget."*
+## what i'm building
 
-## Tech Duinn — House of Donn
+autonomous ai agent systems on a home lab. no cloud budget. no enterprise infrastructure. just 4 nodes, free-tier apis, and a lot of stubbornness.
 
-I run a **multi-agent AI company** on a 4-node home lab (16GB laptop, 7GB server, Pi 4, Android phone) using free-tier API access only.
+**tech duinn** (house of donn) is a multi-agent orchestration platform where 9 specialized agents coordinate across a distributed cluster — handling ml training, media pipelines, security, iot, research, and infrastructure operations.
 
-### The Swarm
+## architecture
 
-| Agent | Role | Domain |
+![architecture](assets/arch.png)
+
+## the swarm
+
+| agent | role | domain |
 |-------|------|--------|
-| **Donn** | CEO / Orchestrator | Strategic coordination |
-| **Hermes** | Messenger Gateway | Agent communication & tool routing |
-| **Brigid** | Media Director | Jellyfin, media pipeline |
-| **Morrígan** | Security Chief | Infrastructure security |
-| **Ogma** | Research Scientist | Knowledge base, ML research |
-| **Lugh** | Operations Manager | DevOps, infrastructure |
-| **Goibniu** | ML Pipeline Architect | Training, fine-tuning |
-| **Danu** | Agent System Architect | Agent framework design |
-| **Manannán** | IoT Coordinator | ESP32, embedded systems |
-| **Amergin** | Coding Assistant | Code generation, review |
+| **donn** | orchestrator | strategic coordination, resource allocation |
+| **hermes** | gateway | llm routing, tool dispatch, inter-agent messaging |
+| **brigid** | media | jellyfin, media pipeline, content management |
+| **morrigan** | security | infrastructure auditing, threat modeling |
+| **ogma** | research | knowledge base, ml research, paper curation |
+| **lugh** | operations | devops, docker, k3s, infrastructure |
+| **goibniu** | ml | model training, fine-tuning, gpu workloads |
+| **danu** | architecture | agent framework design, skill development |
+| **manannan** | iot | esp32 firmware, embedded systems, sensors |
 
-### Infrastructure
+## infrastructure
 
-- **10 Docker containers** across 3 nodes (Ollama, llama-server, Chroma, Redis, Langfuse, Aura)
-- **k3s lightweight Kubernetes** for monitoring (Prometheus/Grafana), automation (n8n), media stack
-- **Aura daemon** — smart model routing with 13+ free-provider fallback chain for zero-cost resilience
-- **Auto-heal cron** — self-diagnosing broken containers, restarting crashed services every 5 minutes
-- **~1B+ free tokens/month** aggregated across 11 providers (OpenRouter, Groq, Cerebras, Mistral, etc.)
+```
+nexus (primary)     — RTX 3050 4GB · 16GB RAM · Ubuntu 26.04
+jupiter (media)     — 7GB RAM · 234GB SSD · Docker services
+luna (edge)         — Pi 4 · Pi-hole DNS · SearXNG
+galaxy-a54 (mobile) — Android · Termux · intermittent
+```
 
-### Active Projects
+**stack:** docker · k3s · ollama · llama-server · chroma · redis · langfuse · n8n · syncthing · aura
 
-- [**library-of-alexander**](https://github.com/Danielhogben/library-of-alexander) — Curated AI/ML/CS knowledge base
-- [**bonsai-brain**](https://github.com/Danielhogben/bonsai-brain) — Smartest agent system for 4GB VRAM
-- [**hermes-skills**](https://github.com/Danielhogben/hermes-skills) — 130+ agent skills for Hermes
-- [**hermes-agent**](https://github.com/Danielhogben/hermes-agent) — Hermes agent framework
+**llm routing:** 13+ free-tier providers via openrouter with automatic fallback. ~1b+ tokens/month at zero cost.
 
-### Stack
+## active projects
 
-`Python` `TypeScript` `Docker` `k3s` `Ollama` `OpenRouter` `Redis` `ChromaDB` `Langfuse` `n8n` `ESP32`
+- [library-of-alexander](https://github.com/Danielhogben/library-of-alexander) — curated ai/ml/cs knowledge base
+- [bonsai-brain](https://github.com/Danielhogben/bonsai-brain) — agent system optimized for 4gb vram
+- [hermes-skills](https://github.com/Danielhogben/hermes-skills) — 130+ agent skills for hermes
+- [hermes-agent](https://github.com/Danielhogben/hermes-agent) — hermes agent framework
 
-### Contact
+## principles
 
-📧 daniel.j.hogben@gmail.com
+1. **local first** — run it locally or don't run it at all
+2. **free tiers only** — if it costs money, find another way
+3. **self-healing** — the system fixes itself or alerts me
+4. **minimal cloud** — tailscale mesh, no public exposure
+5. **agents do the work** — i architect, they execute
+
+---
+
+📧 daniel.j.hogben@gmail.com · danhogben199@gmail.com

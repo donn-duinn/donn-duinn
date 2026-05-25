@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420">
+  <rect width="800" height="420" fill="#0d1117"/>
+  <rect x="0" y="0" width="800" height="1" fill="#30363d"/>
+
+  <text x="400" y="30" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#7d8590">system architecture</text>
+
+  <!-- Central: Hermes -->
+  <rect x="330" y="170" width="140" height="52" rx="6" fill="#161b22" stroke="#58a6ff" stroke-width="1.5"/>
+  <text x="400" y="192" text-anchor="middle" font-family="monospace" font-size="12" fill="#58a6ff" font-weight="600">hermes</text>
+  <text x="400" y="210" text-anchor="middle" font-family="monospace" font-size="9" fill="#484f58">gateway · router · llm</text>
+
+  <!-- Donn — top center -->
+  <line x1="400" y1="170" x2="400" y2="90" stroke="#21262d" stroke-width="1"/>
+  <rect x="345" y="52" width="110" height="38" rx="4" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="400" y="68" text-anchor="middle" font-family="monospace" font-size="10" fill="#c9d1d9">donn</text>
+  <text x="400" y="82" text-anchor="middle" font-family="monospace" font-size="8" fill="#484f58">orchestrator</text>
+
+  <!-- Brigid — right top -->
+  <line x1="470" y1="185" x2="590" y2="110" stroke="#21262d" stroke-width="1"/>
+  <rect x="540" y="78" width="100" height="38" rx="4" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="590" y="94" text-anchor="middle" font-family="monospace" font-size="10" fill="#c9d1d9">brigid</text>
+  <text x="590" y="108" text-anchor="middle" font-family="monospace" font-size="8" fill="#484f58">media · jellyfin</text>
+
+  <!-- Morrigan — right bottom -->
+  <line x1="470" y1="205" x2="590" y2="300" stroke="#21262d" stroke-width="1"/>
+  <rect x="535" y="268" width="110" height="38" rx="4" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="590" y="284" text-anchor="middle" font-family="monospace" font-size="10" fill="#c9d1d9">morrigan</text>
+  <text x="590" y="298" text-anchor="middle" font-family="monospace" font-size="8" fill="#484f58">security</text>
+
+  <!-- Ogma — bottom right -->
+  <line x1="380" y1="222" x2="290" y2="310" stroke="#21262d" stroke-width="1"/>
+  <rect x="245" y="278" width="90" height="38" rx="4" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="290" y="294" text-anchor="middle" font-family="monospace" font-size="10" fill="#c9d1d9">ogma</text>
+  <text x="290" y="308" text-anchor="middle" font-family="monospace" font-size="8" fill="#484f58">research</text>
+
+  <!-- Lugh — bottom left -->
+  <line x1="350" y1="222" x2="210" y2="300" stroke="#21262d" stroke-width="1"/>
+  <rect x="170" y="268" width="80" height="38" rx="4" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="210" y="284" text-anchor="middle" font-family="monospace" font-size="10" fill="#c9d1d9">lugh</text>
+  <text x="210" y="298" text-anchor="middle" font-family="monospace" font-size="8" fill="#484f58">ops · infra</text>
+
+  <!-- Goibniu — left -->
+  <line x1="330" y1="190" x2="160" y2="190" stroke="#21262d" stroke-width="1"/>
+  <rect x="115" y="174" width="90" height="38" rx="4" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="160" y="190" text-anchor="middle" font-family="monospace" font-size="10" fill="#c9d1d9">goibniu</text>
+  <text x="160" y="204" text-anchor="middle" font-family="monospace" font-size="8" fill="#484f58">ML · training</text>
+
+  <!-- Danu — top left -->
+  <line x1="360" y1="170" x2="230" y2="100" stroke="#21262d" stroke-width="1"/>
+  <rect x="190" y="68" width="80" height="38" rx="4" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="230" y="84" text-anchor="middle" font-family="monospace" font-size="10" fill="#c9d1d9">danu</text>
+  <text x="230" y="98" text-anchor="middle" font-family="monospace" font-size="8" fill="#484f58">agent arch</text>
+
+  <!-- Manannan — bottom center -->
+  <line x1="400" y1="222" x2="400" y2="340" stroke="#21262d" stroke-width="1"/>
+  <rect x="345" y="308" width="110" height="38" rx="4" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="400" y="324" text-anchor="middle" font-family="monospace" font-size="10" fill="#c9d1d9">manannan</text>
+  <text x="400" y="338" text-anchor="middle" font-family="monospace" font-size="8" fill="#484f58">IoT · ESP32</text>
+
+  <!-- Infrastructure bar -->
+  <rect x="40" y="370" width="720" height="36" rx="4" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+  <text x="400" y="386" text-anchor="middle" font-family="monospace" font-size="9" fill="#484f58">docker · k3s · ollama · llama-server · chroma · redis · langfuse · n8n · syncthing · aura</text>
+  <text x="400" y="400" text-anchor="middle" font-family="monospace" font-size="8" fill="#30363d">nexus (16GB · RTX 3050) · jupiter (7GB · media) · luna (Pi 4 · DNS) · galaxy-a54 (Android)</text>
+</svg>
