@@ -1,122 +1,45 @@
-<div align="center">
+# 🌑 donn — AI Systems Architect
 
-# Danielhogben
+> *"Building autonomous AI agent systems on a home lab with zero cloud budget."*
 
-**AI agent infrastructure · Local LLM inference · Game dev · N64 modding**
+## Tech Duinn — House of Donn
 
-[![GitHub followers](https://img.shields.io/github/followers/Danielhogben?style=social)](https://github.com/Danielhogben)
-[![Public repos](https://img.shields.io/badge/repos-300+-blue)](https://github.com/Danielhogben?tab=repositories)
+I run a **multi-agent AI company** on a 4-node home lab (16GB laptop, 7GB server, Pi 4, Android phone) using free-tier API access only.
 
-</div>
+### The Swarm
 
----
+| Agent | Role | Domain |
+|-------|------|--------|
+| **Donn** | CEO / Orchestrator | Strategic coordination |
+| **Hermes** | Messenger Gateway | Agent communication & tool routing |
+| **Brigid** | Media Director | Jellyfin, media pipeline |
+| **Morrígan** | Security Chief | Infrastructure security |
+| **Ogma** | Research Scientist | Knowledge base, ML research |
+| **Lugh** | Operations Manager | DevOps, infrastructure |
+| **Goibniu** | ML Pipeline Architect | Training, fine-tuning |
+| **Danu** | Agent System Architect | Agent framework design |
+| **Manannán** | IoT Coordinator | ESP32, embedded systems |
+| **Amergin** | Coding Assistant | Code generation, review |
 
-## 🎮 Featured Projects
+### Infrastructure
 
-<table>
-<tr>
-<td width="50%" valign="top">
+- **10 Docker containers** across 3 nodes (Ollama, llama-server, Chroma, Redis, Langfuse, Aura)
+- **k3s lightweight Kubernetes** for monitoring (Prometheus/Grafana), automation (n8n), media stack
+- **Aura daemon** — smart model routing with 13+ free-provider fallback chain for zero-cost resilience
+- **Auto-heal cron** — self-diagnosing broken containers, restarting crashed services every 5 minutes
+- **~1B+ free tokens/month** aggregated across 11 providers (OpenRouter, Groq, Cerebras, Mistral, etc.)
 
-### [Project Nexus](https://github.com/Danielhogben/n64-ai-co-op-lab)
-A **GTA-style standalone 3D open-world game** built with Python & Ursina Engine.
+### Active Projects
 
-- 🌍 8 galaxies, 64 zones, 362-ROM universe
-- ⚔️ Quests, trading, base building, vehicles
-- 🌗 Day/night cycle with sleeping enemies
-- 🖥️ Cross-platform: Windows + Linux
-- 📦 CI builds pre-packaged executables
+- [**library-of-alexander**](https://github.com/Danielhogben/library-of-alexander) — Curated AI/ML/CS knowledge base
+- [**bonsai-brain**](https://github.com/Danielhogben/bonsai-brain) — Smartest agent system for 4GB VRAM
+- [**hermes-skills**](https://github.com/Danielhogben/hermes-skills) — 130+ agent skills for Hermes
+- [**hermes-agent**](https://github.com/Danielhogben/hermes-agent) — Hermes agent framework
 
-`Python` `Ursina` `PyInstaller` `GitHub Actions`
+### Stack
 
-</td>
-<td width="50%" valign="top">
+`Python` `TypeScript` `Docker` `k3s` `Ollama` `OpenRouter` `Redis` `ChromaDB` `Langfuse` `n8n` `ESP32`
 
-### [Hermes Skills](https://github.com/Danielhogben/hermes-skills)
-The largest open-source **AI agent skill collection** — 1.5M+ skills across 3,600+ services and 35 languages.
+### Contact
 
-`skill-forge` generates skills programmatically from a service catalog × action matrix. Handcrafted skills cover AI frameworks, security, home automation, and more.
-
-`Python` `LangChain` `CrewAI` `Docker`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Bonsai Brain](https://github.com/Danielhogben/bonsai-brain)
-Local LLM inference router with **1-bit Bonsai model support**. Routes tasks between local and cloud models based on complexity.
-
-`Go` `llama.cpp` `Ollama` `Local AI`
-
-</td>
-<td width="50%" valign="top">
-
-### [Ironclaw](https://github.com/Danielhogben/ironclaw)
-Self-hosted AI agent platform with **local-first** architecture.
-
-`Python` `Kotlin` `Docker` `MicroK8s`
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-
-**AI / ML**
-
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF5A5F?style=flat)
-![Unsloth](https://img.shields.io/badge/Unsloth-FF6B6B?style=flat)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
-
-**Infra / DevOps**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-![MicroK8s](https://img.shields.io/badge/MicroK8s-326CE5?style=flat&logo=kubernetes&logoColor=white)
-
-**Game Dev**
-
-![Ursina](https://img.shields.io/badge/Ursina-FF6B6B?style=flat)
-![LibGDX](https://img.shields.io/badge/LibGDX-FF0000?style=flat)
-![Netty](https://img.shields.io/badge/Netty-00BFA5?style=flat)
-
----
-
-## 🏠 Home Lab
-
-3-machine LAN running local AI inference, game servers, and self-hosted services.
-
-| Machine | Specs | Role |
-|---------|-------|------|
-| **Manjaro Workstation** | RTX 3050, 64GB RAM | Ollama, Unsloth, game dev |
-| **Ubuntu Server** | 32GB RAM | Nextcloud, Rocket.Chat, Prometheus, RSMod |
-| **Raspberry Pi 4B** | 8GB RAM | Lightweight AI, TFT28 display, home automation |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Danielhogben&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielhogben&layout=compact&theme=tokyonight&hide_border=true" height="160">
-</p>
-
----
-
-<p align="center">
-  <i>"The best way to predict the future is to build it."</i>
-</p>
+📧 daniel.j.hogben@gmail.com
