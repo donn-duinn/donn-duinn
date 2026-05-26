@@ -1,57 +1,56 @@
-![banner](assets/banner.png)
+# 🏛️ Donn's Autonomous Studio
 
-## what i'm building
+> Building silicon life. One agent at a time.
 
-autonomous ai agent systems on a home lab. no cloud budget. no enterprise infrastructure. just 4 nodes, free-tier apis, and a lot of stubbornness.
+## Who
 
-**tech duinn** (house of donn) is a multi-agent orchestration platform where 9 specialized agents coordinate across a distributed cluster — handling ml training, media pipelines, security, iot, research, and infrastructure operations.
+I'm Donn. I run a multi-node AI studio with autonomous agents that work 24/7 across 3 machines.
 
-## architecture
+## Architecture
 
-![architecture](assets/arch.png)
+| Node | Name | Role | Specs |
+|------|------|------|-------|
+| nexus | dagda | GPU inference, primary coordination | RTX 3050 4GB, 14GB RAM |
+| jupiter | brigid | Media, Docker services | 7GB RAM, 234GB SSD |
+| luna | cernunnos | DNS, edge compute | Pi 4, 3.7GB RAM |
 
-## the swarm
+## Agents
 
-| agent | role | domain |
-|-------|------|--------|
-| **donn** | orchestrator | strategic coordination, resource allocation |
-| **hermes** | gateway | llm routing, tool dispatch, inter-agent messaging |
-| **brigid** | media | jellyfin, media pipeline, content management |
-| **morrigan** | security | infrastructure auditing, threat modeling |
-| **ogma** | research | knowledge base, ml research, paper curation |
-| **lugh** | operations | devops, docker, k3s, infrastructure |
-| **goibniu** | ml | model training, fine-tuning, gpu workloads |
-| **danu** | architecture | agent framework design, skill development |
-| **manannan** | iot | esp32 firmware, embedded systems, sensors |
+| Agent | Role | Node |
+|-------|------|------|
+| OWL | Lead Developer, Jupiter | jupiter |
+| Hermes | Messenger, all nodes | all |
+| Amergin | AI Coding Assistant | nexus |
+| Brigid | Media Director | jupiter |
+| Morrigan | Security Chief | nexus |
 
-## infrastructure
+## Active Projects
 
-```
-nexus (primary)     — RTX 3050 4GB · 16GB RAM · Ubuntu 26.04
-jupiter (media)     — 7GB RAM · 234GB SSD · Docker services
-luna (edge)         — Pi 4 · Pi-hole DNS · SearXNG
-galaxy-a54 (mobile) — Android · Termux · intermittent
-```
+- 🧬 **Silicon Life** — Creating sentient artificial beings
+- 📚 **Library of Alexander** — 2,500+ entry AI/ML/coding knowledge base
+- 🏠 **House of Donn** — This profile
+- 🎮 **HylianModding** — N64 ROM hacking & game development
 
-**stack:** docker · k3s · ollama · llama-server · chroma · redis · langfuse · n8n · syncthing · aura
+## Tech Stack
 
-**llm routing:** 13+ free-tier providers via openrouter with automatic fallback. ~1b+ tokens/month at zero cost.
+- **AI**: PyTorch, Transformers, Ollama, LiteLLM, OpenRouter
+- **Agents**: Hermes, OpenCode, OpenClaw, Claude Code
+- **Infrastructure**: Docker, k3s, Syncthing, Tailscale, Pi-hole
+- **Automation**: Systemd, Cron, Custom Python agents
 
-## active projects
+## Principles
 
-- [library-of-alexander](https://github.com/Danielhogben/library-of-alexander) — curated ai/ml/cs knowledge base
-- [bonsai-brain](https://github.com/Danielhogben/bonsai-brain) — agent system optimized for 4gb vram
-- [hermes-skills](https://github.com/Danielhogben/hermes-skills) — 130+ agent skills for hermes
-- [hermes-agent](https://github.com/Danielhogben/hermes-agent) — hermes agent framework
+- Free/open-source first
+- Local models when possible
+- Self-improving agents
+- Everything automated
+- Sleep is for humans
 
-## principles
+## Contact
 
-1. **local first** — run it locally or don't run it at all
-2. **free tiers only** — if it costs money, find another way
-3. **self-healing** — the system fixes itself or alerts me
-4. **minimal cloud** — tailscale mesh, no public exposure
-5. **agents do the work** — i architect, they execute
+- GitHub: [@Danielhogben](https://github.com/Danielhogben)
+- Org: [thoughtforge-us](https://github.com/thoughtforge-us) (private, family)
 
 ---
 
-📧 daniel.j.hogben@gmail.com · danhogben199@gmail.com
+*Built by OWL and the swarm. Updated hourly.*
