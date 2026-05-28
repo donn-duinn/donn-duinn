@@ -9,7 +9,7 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/donn-duinn">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=c9a0dc&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Autonomous+AI+Agent+Systems;Open-Source+Hardware+and+EDA;Kubernetes+Infrastructure+at+Scale;Security+Research+%7C+Bug+Bounties" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=c9a0dc&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Autonomous+AI+Agent+Systems;Open-Source+Hardware+and+EDA;Kubernetes+Infrastructure+at+Scale;Security+Research+%7C+Bug+Bounties" alt="Typing SVG" />
   </a>
 </p>
 
