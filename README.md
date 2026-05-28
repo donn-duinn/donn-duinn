@@ -27,7 +27,7 @@ By day I architect autonomous AI agent swarms on Kubernetes. By night I'm huntin
   <table>
     <tr>
       <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Repos-75%2B-7c3aed?style=for-the-badge&logo=github&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Repos-53-7c3aed?style=for-the-badge&logo=github&logoColor=white" /><br/>
         <sub>Public & Private</sub>
       </td>
       <td align="center" width="25%">
@@ -54,39 +54,39 @@ By day I architect autonomous AI agent swarms on Kubernetes. By night I'm huntin
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">
-        <img src="https://img.shields.io/badge/%F0%9F%96%A5-nudelta-00d26a?style=for-the-badge&logo=swift&logoColor=white" />
+        <img src="https://img.shields.io/badge/%F0%9F%8C%B3-bonsai--brain-00d26a?style=for-the-badge&logo=go&logoColor=white" />
       </h3>
       <p align="center">
-        <b>Open-source NuPhy Console alternative</b><br/>
-        A complete reverse-engineered replacement for the NuPhy keyboard configuration app. Bluetooth HID protocol reversing, custom firmware interaction, and a clean UI for keyboard customization. The project that proved I could ship things people actually use.
+        <b>Compiled Go agent reasoning engine</b><br/>
+        Run smart on tiny hardware. A compiled reasoning engine for AI agents that need to operate efficiently on resource-constrained devices. Optimized for speed and minimal memory footprint.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/swift-FA7343?style=flat-square&logo=swift&logoColor=white" />
-        <img src="https://img.shields.io/badge/bluetooth-0082FC?style=flat-square&logo=bluetooth&logoColor=white" />
-        <img src="https://img.shields.io/badge/macos-F05033?style=flat-square&logo=apple&logoColor=white" />
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI-7c3aed?style=flat-square&logo=robot-framework&logoColor=white" />
+        <img src="https://img.shields.io/badge/Edge-24b1d6?style=flat-square&logo=none&logoColor=white" />
       </p>
       <p align="center">
-        <a href="https://github.com/donn/nudelta">
-          <img src="https://img.shields.io/github/stars/donn/nudelta?style=social" />
+        <a href="https://github.com/donn-duinn/bonsai-brain">
+          <img src="https://img.shields.io/github/stars/donn-duinn/bonsai-brain?style=social" />
         </a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">
-        <img src="https://img.shields.io/badge/%E2%9A%96-difetto-ff6b6b?style=for-the-badge&logo=hardware&logoColor=white" />
+        <img src="https://img.shields.io/badge/%F0%9F%8E%AE-HylianModding-24b1d6?style=for-the-badge&logo=markdown&logoColor=white" />
       </h3>
       <p align="center">
-        <b>Open-source Design-for-Test (DFT) flow</b><br/>
-        An open-source EDA tool for scan chain insertion and test automation on digital chip designs. Fills a critical gap in the open-source silicon ecosystem -- commercial DFT tools cost six figures. Written in C++ with a Python frontend.
+        <b>Autonomous Game Studio</b><br/>
+        N64 ROM Hacking & Game Development. An autonomous agent system for game modification, ROM analysis, and automated testing of classic games. Where AI meets retro gaming.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Yosys-90B4D8?style=flat-square&logo=none&logoColor=white" />
+        <img src="https://img.shields.io/badge/N64-000000?style=flat-square&logo=none&logoColor=white" />
+        <img src="https://img.shields.io/badge/ROM-FF6B6B?style=flat-square&logo=none&logoColor=white" />
       </p>
       <p align="center">
-        <a href="https://github.com/donn/difetto">
-          <img src="https://img.shields.io/github/stars/donn/difetto?style=social" />
+        <a href="https://github.com/donn-duinn/HylianModding">
+          <img src="https://img.shields.io/github/stars/donn-duinn/HylianModding?style=social" />
         </a>
       </p>
     </td>
@@ -114,31 +114,11 @@ By day I architect autonomous AI agent swarms on Kubernetes. By night I'm huntin
     </td>
     <td width="50%" valign="top">
       <h3 align="center">
-        <img src="https://img.shields.io/badge/%F0%9F%8E%B1-nl2bench-24b1d6?style=for-the-badge&logo=markdown&logoColor=white" />
+        <img src="https://img.shields.io/badge/%E2%9A%A1-aura--daemon-25D366?style=for-the-badge&logo=openai&logoColor=white" />
       </h3>
       <p align="center">
-        <b>Netlist-to-BENCH format converter</b><br/>
-        Converts combinational netlists into the BENCH format for DFT testing. A companion tool to difetto that bridges the gap between synthesis output and test pattern generation. Small, focused, does one thing well.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-        <img src="https://img.shields.io/badge/EDA-FF6B6B?style=flat-square&logo=none&logoColor=white" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/donn/nl2bench">
-          <img src="https://img.shields.io/github/stars/donn/nl2bench?style=social" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">
-        <img src="https://img.shields.io/badge/%F0%9F%96%A5-FreeLLMAPI-25D366?style=for-the-badge&logo=openai&logoColor=white" />
-      </h3>
-      <p align="center">
-        <b>Aggregator for free LLM APIs (~1B tokens/month)</b><br/>
-        Intelligent routing across free-tier LLM providers. Automatic failover, rate-limit awareness, token counting, and usage analytics. Powers the swarm's external AI calls without spending a cent.
+        <b>Smart LLM model router daemon</b><br/>
+        13+ free provider fallback chain. Intelligent routing across free-tier LLM providers with automatic failover, rate-limit awareness, token counting, and usage analytics. Powers the swarm's external AI calls without spending a cent.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/python-3776ab?style=flat-square&logo=python&logoColor=white" />
@@ -146,26 +126,8 @@ By day I architect autonomous AI agent swarms on Kubernetes. By night I'm huntin
         <img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
       </p>
       <p align="center">
-        <a href="https://github.com/donn-duinn/freellmapi">
-          <img src="https://img.shields.io/github/stars/donn-duinn/freellmapi?style=social" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">
-        <img src="https://img.shields.io/badge/%F0%9F%92%A1-difetto--demo-9ece6a?style=for-the-badge&logo=markdown&logoColor=white" />
-      </h3>
-      <p align="center">
-        <b>Difetto demonstration and test cases</b><br/>
-        Live demonstrations and benchmark test cases for the difetto DFT flow. Shows scan chain insertion in action on real netlists. The "show, don't tell" companion to the main project.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-        <img src="https://img.shields.io/badge/EDA-FF6B6B?style=flat-square&logo=none&logoColor=white" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/donn/difetto-demonstration">
-          <img src="https://img.shields.io/github/stars/donn/difetto-demonstration?style=social" />
+        <a href="https://github.com/donn-duinn/aura-daemon">
+          <img src="https://img.shields.io/github/stars/donn-duinn/aura-daemon?style=social" />
         </a>
       </p>
     </td>
@@ -173,20 +135,20 @@ By day I architect autonomous AI agent swarms on Kubernetes. By night I'm huntin
   <tr>
     <td colspan="2" valign="top" align="center">
       <h3 align="center">
-        <img src="https://img.shields.io/badge/%F0%9F%8E%B1-SSCO-7c3aed?style=for-the-badge&logo=cplusplus&logoColor=white" />
+        <img src="https://img.shields.io/badge/%F0%9F%93%8A-graphify-9ece6a?style=for-the-badge&logo=markdown&logoColor=white" />
       </h3>
       <p align="center" width="80%">
-        <b>Tiny Commandline Processing Library for C++17</b><br/>
-        A minimal, modern C++ library for parsing commandline arguments. Header-only, zero dependencies, type-safe. Born from the frustration of existing argument parsers being either too complex or too fragile.
+        <b>AI coding assistant skill</b><br/>
+        Turn any folder into a queryable knowledge graph. Indexes codebases, extracts entities and relationships, and enables natural language queries against your project structure. A skill for AI coding assistants that need deep codebase understanding.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/C%2B%2B%2017-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-        <img src="https://img.shields.io/badge/Header--only-000000?style=flat-square&logo=none&logoColor=white" />
-        <img src="https://img.shields.io/badge/Zero%20Dependencies-25D366?style=flat-square&logo=none&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/KnowledgeGraph-7c3aed?style=flat-square&logo=none&logoColor=white" />
+        <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white" />
       </p>
       <p align="center">
-        <a href="https://github.com/donn/SSCO">
-          <img src="https://img.shields.io/github/stars/donn/SSCO?style=social" />
+        <a href="https://github.com/donn-duinn/graphify">
+          <img src="https://img.shields.io/github/stars/donn-duinn/graphify?style=social" />
         </a>
       </p>
     </td>
@@ -297,11 +259,10 @@ By day I architect autonomous AI agent swarms on Kubernetes. By night I'm huntin
 
 ## What I'm Working On
 
-- **difetto** -- Completing the open-source DFT flow. Scan chain insertion, ATPG, and test compression for open-source silicon.
 - **Self-Improving Agents** -- Agents that analyze their own failures and adapt their behavior over time.
 - **Knowledge Graph Evolution** -- Expanding the shared memory system so agents build on each other's discoveries.
 - **Mobile Agent Operations** -- Running full agent capabilities on Android via Termux + aengus node.
-- **Free LLM Ecosystem** -- Growing the free API aggregator to maximize intelligence without cost.
+- **Aura Daemon** -- Smart LLM model router with 13+ free provider fallback chain.
 - **Voiceover Work** -- Australian English voiceover artist. Because sometimes the best interface is a human voice.
 
 ---
