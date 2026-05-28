@@ -8,7 +8,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://github.com/Danielhogben">
+  <a href="https://github.com/donn-duinn">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=c9a0dc&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Autonomous+AI+Agent+Systems;Open-Source+Hardware+and+EDA;Kubernetes+Infrastructure+at+Scale;Security+Research+%7C+Bug+Bounties" alt="Typing SVG" />
   </a>
 </p>
@@ -107,8 +107,8 @@ By day I architect autonomous AI agent swarms on Kubernetes. By night I'm huntin
         <img src="https://img.shields.io/badge/sqlite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
       </p>
       <p align="center">
-        <a href="https://github.com/Danielhogben/tech-duinn">
-          <img src="https://img.shields.io/github/stars/Danielhogben/tech-duinn?style=social" />
+        <a href="https://github.com/donn-duinn/tech-duinn">
+          <img src="https://img.shields.io/github/stars/donn-duinn/tech-duinn?style=social" />
         </a>
       </p>
     </td>
@@ -146,8 +146,8 @@ By day I architect autonomous AI agent swarms on Kubernetes. By night I'm huntin
         <img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
       </p>
       <p align="center">
-        <a href="https://github.com/Danielhogben/freellmapi">
-          <img src="https://img.shields.io/github/stars/Danielhogben/freellmapi?style=social" />
+        <a href="https://github.com/donn-duinn/freellmapi">
+          <img src="https://img.shields.io/github/stars/donn-duinn/freellmapi?style=social" />
         </a>
       </p>
     </td>
@@ -309,8 +309,8 @@ By day I architect autonomous AI agent swarms on Kubernetes. By night I'm huntin
 ## GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danielhogben&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&title_color=bb9af7&icon_color=7c3aed&text_color=c9a0dc&ring_color=bb9af7" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielhogben&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&title_color=bb9af7&text_color=c9a0dc&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=donn-duinn&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&title_color=bb9af7&icon_color=7c3aed&text_color=c9a0dc&ring_color=bb9af7" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donn-duinn&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&title_color=bb9af7&text_color=c9a0dc&langs_count=8" />
 </p>
 
 ---
@@ -318,7 +318,7 @@ By day I architect autonomous AI agent swarms on Kubernetes. By night I'm huntin
 ## Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Danielhogben&bg_color=0d1117&color=bb9af7&line=7c3aed&point=c9a0dc&area=true&area_color=7c3aed&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=donn-duinn&bg_color=0d1117&color=bb9af7&line=7c3aed&point=c9a0dc&area=true&area_color=7c3aed&hide_border=true" />
 </p>
 
 ---
@@ -326,7 +326,7 @@ By day I architect autonomous AI agent swarms on Kubernetes. By night I'm huntin
 ## Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Danielhogben&theme=radical&background=0d1117&hide_border=true&ring=bb9af7&fire=f778a1&currStreakLabel=c9a0dc&sideLabels=c9a0dc" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=donn-duinn&theme=radical&background=0d1117&hide_border=true&ring=bb9af7&fire=f778a1&currStreakLabel=c9a0dc&sideLabels=c9a0dc" />
 </p>
 
 ---
@@ -334,7 +334,7 @@ By day I architect autonomous AI agent swarms on Kubernetes. By night I'm huntin
 ## Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Danielhogben&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=donn-duinn&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </p>
 
 ---
@@ -344,7 +344,7 @@ By day I architect autonomous AI agent swarms on Kubernetes. By night I'm huntin
 If my work on open-source AI agent infrastructure or EDA tools is useful to you, consider supporting it:
 
 <p align="center">
-  <a href="https://github.com/sponsors/Danielhogben">
+  <a href="https://github.com/sponsors/donn-duinn">
     <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ff69b4?style=for-the-badge&logo=githubsponsors&logoColor=white" />
   </a>
 </p>
@@ -352,7 +352,7 @@ If my work on open-source AI agent infrastructure or EDA tools is useful to you,
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Danielhogben&color=7c3aed&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=donn-duinn&color=7c3aed&style=flat-square&label=Profile+Views" />
 </p>
 
 <p align="center">
