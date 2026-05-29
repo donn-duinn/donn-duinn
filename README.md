@@ -1,16 +1,14 @@
 <!-- Banner -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b26,100:16161e&height=220&section=header&text=Donn&fontSize=90&fontColor=bb9af7&fontAlignY=35&desc=AI%20Engineer%20%C2%B7%20Security%20Researcher%20%C2%B7%20Open-Source%20Hardware&descSize=16&descAlignY=55&descAlignX=50&animation=fadeIn">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b26,100:16161e&height=220&section=header&text=Donn&fontSize=90&fontColor=bb9af7&fontAlignY=35&desc=AI%20Engineer%20%C2%B7%20Security%20Researcher%20%C2%B7%20Open-Source%20Hardware&descSize=16&descAlignY=55&descAlignX=50&animation=fadeIn" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b26,100:16161e&height=180&section=header&text=Donn+Duinn&fontSize=70&fontColor=bb9af7&fontAlignY=40&desc=AI+Engineer+%7C+Security+Researcher+%7C+Open+Source&descSize=16&descAlignY=60&descAlignX=50&animation=fadeIn">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b26,100:16161e&height=180&section=header&text=Donn+Duinn&fontSize=70&fontColor=bb9af7&fontAlignY=40&desc=AI+Engineer+%7C+Security+Researcher+%7C+Open+Source&descSize=16&descAlignY=60&descAlignX=50&animation=fadeIn" width="100%">
   </picture>
 </p>
 
-<!-- Typing SVG -->
+<!-- Tagline -->
 <p align="center">
-  <a href="https://github.com/donn-duinn">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=c9a0dc&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Autonomous+AI+Agent+Systems;Open-Source+Hardware+and+EDA;Kubernetes+Infrastructure+at+Scale;Security+Research+%7C+Bug+Bounties" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=c9a0dc&center=true&vCenter=true&multiline=true&repeat=true&width=550&height=70&lines=Autonomous+AI+Agent+Systems;Kubernetes+Infrastructure+at+Scale;Open-Source+LLM+Tooling" alt="Typing SVG" />
 </p>
 
 ---
@@ -23,28 +21,10 @@ By day I architect autonomous AI agent swarms on Kubernetes. By night I'm huntin
 
 **The numbers:**
 
-<p align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Repos-53-7c3aed?style=for-the-badge&logo=github&logoColor=white" /><br/>
-        <sub>Public & Private</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Stars-650%2B-f778a1?style=for-the-badge&logo=github&logoColor=white" /><br/>
-        <sub>Across Original Projects</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Agents-9-bb9af7?style=for-the-badge&logo=robot-framework&logoColor=white" /><br/>
-        <sub>Named & Autonomous</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/K3s-4%20Nodes-24b1d6?style=for-the-badge&logo=kubernetes&logoColor=white" /><br/>
-        <sub>Tailscale Mesh VPN</sub>
-      </td>
-    </tr>
-  </table>
-</p>
+| | | | |
+|:---:|:---:|:---:|:---:|
+| ![](https://img.shields.io/badge/Repos-53-7c3aed?style=for-the-badge&logo=github&logoColor=white) | ![](https://img.shields.io/badge/Stars-650%2B-bb9af7?style=for-the-badge&logo=starship&logoColor=white) | ![](https://img.shields.io/badge/Agents-9-24b1d6?style=for-the-badge&logo=robot&logoColor=white) | ![](https://img.shields.io/badge/K3s-4+Nodes-f778a1?style=for-the-badge&logo=kubernetes&logoColor=white) |
+| Public & Private | Across Original Projects | Named & Autonomous | Tailscale Mesh VPN |
 
 ---
 
@@ -54,56 +34,15 @@ By day I architect autonomous AI agent swarms on Kubernetes. By night I'm huntin
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">
-        <img src="https://img.shields.io/badge/%F0%9F%8C%B3-bonsai--brain-00d26a?style=for-the-badge&logo=go&logoColor=white" />
-      </h3>
-      <p align="center">
-        <b>Compiled Go agent reasoning engine</b><br/>
-        Run smart on tiny hardware. A compiled reasoning engine for AI agents that need to operate efficiently on resource-constrained devices. Optimized for speed and minimal memory footprint.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-        <img src="https://img.shields.io/badge/AI-7c3aed?style=flat-square&logo=robot-framework&logoColor=white" />
-        <img src="https://img.shields.io/badge/Edge-24b1d6?style=flat-square&logo=none&logoColor=white" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/donn-duinn/bonsai-brain">
-          <img src="https://img.shields.io/github/stars/donn-duinn/bonsai-brain?style=social" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">
-        <img src="https://img.shields.io/badge/%F0%9F%8E%AE-HylianModding-24b1d6?style=for-the-badge&logo=markdown&logoColor=white" />
-      </h3>
-      <p align="center">
-        <b>Autonomous Game Studio</b><br/>
-        N64 ROM Hacking & Game Development. An autonomous agent system for game modification, ROM analysis, and automated testing of classic games. Where AI meets retro gaming.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/N64-000000?style=flat-square&logo=none&logoColor=white" />
-        <img src="https://img.shields.io/badge/ROM-FF6B6B?style=flat-square&logo=none&logoColor=white" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/donn-duinn/HylianModding">
-          <img src="https://img.shields.io/github/stars/donn-duinn/HylianModding?style=social" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">
-        <img src="https://img.shields.io/badge/%F0%9F%A7%A0-Tech%20Duinn-7c3aed?style=for-the-badge&logo=kubernetes&logoColor=white" />
+        <img src="https://img.shields.io/badge/%E2%9C%A6-Tech%20Duinn-7c3aed?style=for-the-badge&logo=kubernetes&logoColor=white" />
       </h3>
       <p align="center">
         <b>9-agent autonomous swarm orchestrator</b><br/>
-        Named AI agents (Brigid, Morrigan, Lugh, Ogma, Danu, Manannan, Goibniu, Amergin, Donn) that collaborate on tasks, share memory via a knowledge graph, self-heal, and evolve. Runs on a 4-node K3s cluster over Tailscale mesh VPN. MCP server integration, task protocols, focus sprint gamification.
+        Named AI agents that collaborate on tasks, share memory via a knowledge graph, self-heal, and evolve. Runs on K3s over Tailscale mesh VPN with MCP server integration.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/python-3776ab?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white" />
-        <img src="https://img.shields.io/badge/mcp-000000?style=flat-square&logo=anthropic&logoColor=white" />
         <img src="https://img.shields.io/badge/sqlite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
       </p>
       <p align="center">
@@ -114,11 +53,51 @@ By day I architect autonomous AI agent swarms on Kubernetes. By night I'm huntin
     </td>
     <td width="50%" valign="top">
       <h3 align="center">
-        <img src="https://img.shields.io/badge/%E2%9A%A1-aura--daemon-25D366?style=for-the-badge&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/%F0%9F%8E%AC-Duinn%20Media-24b1d6?style=for-the-badge&logo=jellyfin&logoColor=white" />
       </h3>
       <p align="center">
-        <b>Smart LLM model router daemon</b><br/>
-        13+ free provider fallback chain. Intelligent routing across free-tier LLM providers with automatic failover, rate-limit awareness, token counting, and usage analytics. Powers the swarm's external AI calls without spending a cent.
+        <b>Custom Go media server</b><br/>
+        Self-hosted media management with debrid integration, automated library management, and streaming. Built from scratch to replace Sonarr/Radarr/Jackett.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+        <img src="https://img.shields.io/badge/jellyfin-900020?style=flat-square&logo=jellyfin&logoColor=white" />
+        <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/donn-duinn/duinn-media">
+          <img src="https://img.shields.io/github/stars/donn-duinn/duinn-media?style=social" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <img src="https://img.shields.io/badge/%F0%9F%94%92-NexusVPN-f778a1?style=for-the-badge&logo=wireguard&logoColor=white" />
+      </h3>
+      <p align="center">
+        <b>WireGuard mesh VPN for the swarm</b><br/>
+        Encrypted peer-to-peer mesh connecting all cluster nodes. Zero-trust networking with automatic key rotation, health monitoring, and Android/Termux support.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/wireguard-88171A?style=flat-square&logo=wireguard&logoColor=white" />
+        <img src="https://img.shields.io/badge/tailscale-24B1D6?style=flat-square&logo=tailscale&logoColor=white" />
+        <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/donn-duinn/nexus-vpn">
+          <img src="https://img.shields.io/github/stars/donn-duinn/nexus-vpn?style=social" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <img src="https://img.shields.io/badge/%F0%9F%86%93-FreeLLMAPI-25D366?style=for-the-badge&logo=openai&logoColor=white" />
+      </h3>
+      <p align="center">
+        <b>Free LLM API aggregator (~1B tokens/month)</b><br/>
+        Intelligent routing across free-tier LLM providers with automatic failover, rate-limit awareness, and usage analytics. Powers the swarm's external AI calls.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/python-3776ab?style=flat-square&logo=python&logoColor=white" />
@@ -126,29 +105,8 @@ By day I architect autonomous AI agent swarms on Kubernetes. By night I'm huntin
         <img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
       </p>
       <p align="center">
-        <a href="https://github.com/donn-duinn/aura-daemon">
-          <img src="https://img.shields.io/github/stars/donn-duinn/aura-daemon?style=social" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top" align="center">
-      <h3 align="center">
-        <img src="https://img.shields.io/badge/%F0%9F%93%8A-graphify-9ece6a?style=for-the-badge&logo=markdown&logoColor=white" />
-      </h3>
-      <p align="center" width="80%">
-        <b>AI coding assistant skill</b><br/>
-        Turn any folder into a queryable knowledge graph. Indexes codebases, extracts entities and relationships, and enables natural language queries against your project structure. A skill for AI coding assistants that need deep codebase understanding.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/KnowledgeGraph-7c3aed?style=flat-square&logo=none&logoColor=white" />
-        <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/donn-duinn/graphify">
-          <img src="https://img.shields.io/github/stars/donn-duinn/graphify?style=social" />
+        <a href="https://github.com/donn-duinn/freellmapi">
+          <img src="https://img.shields.io/github/stars/donn-duinn/freellmapi?style=social" />
         </a>
       </p>
     </td>
@@ -169,7 +127,7 @@ By day I architect autonomous AI agent swarms on Kubernetes. By night I'm huntin
             │           │           │       │           │           │
        ┌────▼────┐ ┌────▼────┐ ┌───▼──┐ ┌──▼───┐ ┌────▼────┐ ┌───▼────┐
        │ BRIGID  │ │MORRIGAN │ │ LUGH │ │ OGMA │ │  DANU   │ │AMERGIN │
-       │  Media  │ │Security │ │ Ops  │ │Research│ │Architect│ │ Coding │
+       │  Media  │ │Security │ │ Ops  │ │Rsrch │ │Architect│ │ Coding │
        └─────────┘ └─────────┘ └──────┘ └──────┘ └─────────┘ └────────┘
                                         │
                     ┌───────────────────┼───────────────────┐
@@ -180,40 +138,18 @@ By day I architect autonomous AI agent swarms on Kubernetes. By night I'm huntin
                └─────────┘        └─────────┘        └──────────┘
 ```
 
-**Infrastructure:**
-
-```
-  ┌────────── Tailscale Mesh VPN ──────────┐
-  │                                         │
-  │  ┌─────────┐  ┌─────────┐  ┌─────────┐ │  ┌─────────┐
-  │  │  dagda  │  │  brigid │  │cernunnos│ │  │  aengus │
-  │  │ K3s     │  │ K3s     │  │ K3s     │ │  │ Mobile  │
-  │  │ Master  │──│ Worker  │──│ Worker  │ │  │ Worker  │
-  │  │ GPU AI  │  │ Media   │  │ DNS/Store│ │  │ Android │
-  │  └─────────┘  └─────────┘  └─────────┘ │  └─────────┘
-  │        │            │           │       │
-  │    ┌───┴────┐  ┌────┴────┐ ┌───┴───┐   │
-  │    │ Ollama │  │Jellyfin │ │Pi-hole│   │
-  │    │LiteLLM │  │Vaultw.  │ │DNS    │   │
-  │    │ Redis  │  │         │ │       │   │
-  │    └────────┘  └─────────┘ └───────┘   │
-  └─────────────────────────────────────────┘
-```
-
 ---
 
-## Skills & Tech Stack
+## Tech Stack
 
 <p align="center">
 
 **AI & Agents**
 <br/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging%20Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
 <img src="https://img.shields.io/badge/LiteLLM-412991?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
 
 **Infrastructure**
 <br/>
@@ -221,93 +157,27 @@ By day I architect autonomous AI agent swarms on Kubernetes. By night I'm huntin
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailscale-24B1D6?style=for-the-badge&logo=tailscale&logoColor=white" />
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-<img src="https://img.shields.io/badge/Systemd-FF6B6B?style=for-the-badge&logo=linux&logoColor=white" />
-
-**Hardware & EDA**
-<br/>
-<img src="https://img.shields.io/badge/Yosys-90B4D8?style=for-the-badge&logo=none&logoColor=white" />
-<img src="https://img.shields.io/badge/Verilog-010101?style=for-the-badge&logo=none&logoColor=white" />
-<img src="https://img.shields.io/badge/SKY130-FF6B6B?style=for-the-badge&logo=none&logoColor=white" />
-<img src="https://img.shields.io/badge/ChipDesign-FFA500?style=for-the-badge&logo=none&logoColor=white" />
-
-**Security**
-<br/>
-<img src="https://img.shields.io/badge/HackerOne-FF6347?style=for-the-badge&logo=hackerone&logoColor=white" />
-<img src="https://img.shields.io/badge/Bug%20Bounties-FF4500?style=for-the-badge&logo=bugcrowd&logoColor=white" />
-<img src="https://img.shields.io/badge/RE-00CED1?style=for-the-badge&logo=none&logoColor=white" />
 
 **Languages**
 <br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-
-**Data & Storage**
-<br/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=chroma&logoColor=white" />
 
 </p>
-
----
-
-## What I'm Working On
-
-- **Self-Improving Agents** -- Agents that analyze their own failures and adapt their behavior over time.
-- **Knowledge Graph Evolution** -- Expanding the shared memory system so agents build on each other's discoveries.
-- **Mobile Agent Operations** -- Running full agent capabilities on Android via Termux + aengus node.
-- **Aura Daemon** -- Smart LLM model router with 13+ free provider fallback chain.
-- **Voiceover Work** -- Australian English voiceover artist. Because sometimes the best interface is a human voice.
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=donn-duinn&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&title_color=bb9af7&icon_color=7c3aed&text_color=c9a0dc&ring_color=bb9af7" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donn-duinn&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&title_color=bb9af7&text_color=c9a0dc&langs_count=8" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=donn-duinn&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&title_color=bb9af7&icon_color=7c3aed&text_color=c9a0dc&ring_color=bb9af7" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donn-duinn&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&title_color=bb9af7&text_color=c9a0dc&langs_count=6" />
 </p>
-
----
-
-## Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=donn-duinn&bg_color=0d1117&color=bb9af7&line=7c3aed&point=c9a0dc&area=true&area_color=7c3aed&hide_border=true" />
-</p>
-
----
-
-## Streak Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=donn-duinn&theme=radical&background=0d1117&hide_border=true&ring=bb9af7&fire=f778a1&currStreakLabel=c9a0dc&sideLabels=c9a0dc" />
-</p>
-
----
-
-## Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=donn-duinn&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</p>
-
----
-
-## Sponsor
-
-If my work on open-source AI agent infrastructure or EDA tools is useful to you, consider supporting it:
-
-<p align="center">
-  <a href="https://github.com/sponsors/donn-duinn">
-    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ff69b4?style=for-the-badge&logo=githubsponsors&logoColor=white" />
-  </a>
 </p>
 
 ---
